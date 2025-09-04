@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=778899&reversal=false"/>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d4dd7694-ea3a-4bd1-a5c6-5bb0d31f3afb" width="745" height="60" alt="logo">
@@ -6,7 +6,7 @@
 
 # ☕︎ Projeto Gerador de Senha
 
-**Gerador de senha** desenvolvido em **HTML**, **CSS** e **JavaScript**, que permite a criação de senhas personalizáveis de acordo com o tamanho definido pelo usuário.
+**Gerador de senha** desenvolvido em **HTML**, **CSS** e **JavaScript**, que permite a criação de senhas personalizáveis de acordo com o tamanho definido pelo usuário, inspirado no tutorial do Youtube [Criando projeto completo com HTML, CSS e JavaScript](https://youtu.be/i6t2jaRxos4?si=CjixHi2UeGTF5G1q).
 
 ## ☕︎ Funcionalidades
 - Geração de senha aleatórias.
@@ -34,6 +34,6 @@ Criar uma ferramenta simples e intuitiva que permita ao usuário gerar senhas fo
    ```bash
    git clone https://github.com/MariaCampanaP/Gerador-de-Senha.git
    ```
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=778899&reversal=false&section=footer"/>
 
 
